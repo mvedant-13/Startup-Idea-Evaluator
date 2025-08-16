@@ -40,6 +40,3 @@ This project demonstrates the power of **CrewAI orchestration** by coordinating 
 - **Other Tools**: `python-dotenv`, `rich` for logging, JSON structured output  
 
 ---
-
-## 📂 Project Structure
-
